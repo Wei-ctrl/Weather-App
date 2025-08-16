@@ -1,0 +1,5 @@
+5abe7346a12f646d9e306a21143dc291
+
+https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${YOUR_API_KEY}&units=metric
+
+https://api.openweathermap.org/data/2.5/weather?q=Yangon&appid=5abe7346a12f646d9e306a21143dc291&units=metric
